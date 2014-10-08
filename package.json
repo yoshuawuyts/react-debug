@@ -1,0 +1,33 @@
+{
+  "name": "react-debug",
+  "version": "1.0.0",
+  "description": "Debug module for react classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/react-debug",
+  "keywords": [
+    "react",
+    "debug",
+    "react-component",
+    "component"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^1.21.4",
+    "react": "^0.11.2",
+    "should": "^4.0.4"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
